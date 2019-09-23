@@ -4,7 +4,7 @@
 # http://gfycat.com/api
 
 # Fetching from a URL
-FETCH_URL_ENDPOINT = 'https://upload.gfycat.com/transcode'
+FETCH_URL_ENDPOINT = 'https://api.gfycat.com/v1/gfycats'
 FETCH_URL_LAZY_ENDPOINT = 'https://upload.gfycat.com/transcodeRelease/'
 FETCH_URL_STATUS_ENDPOINT = 'https://upload.gfycat.com/status/'
 
